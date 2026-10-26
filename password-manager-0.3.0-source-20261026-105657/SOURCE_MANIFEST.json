@@ -1,0 +1,246 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "e0d105ec2d27512f7980dbbc2c62da6d17074d987f44cfea1a65f981dfcd55d2"
+  },
+  {
+    "path": ".metadata",
+    "sha256": "50bea45679ae1c6399c2b50d48136508a1a5aeee7ae3b3b0e8413bfbb0df8204"
+  },
+  {
+    "path": "analysis_options.yaml",
+    "sha256": "fc302dc92270b006a98a89de02cf931fd347ceccd3b32ea5400a6cec72aa6171"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "sha256": "9376a5c115cdee298c4b9ae56614df7ed1faf923d96225d4ddc57ce28fe5b90f"
+  },
+  {
+    "path": "docs/PUBLISHING.md",
+    "sha256": "eed3e8927f82471fb963e1e0efb700dfc4720d8e1cc7aca0dc0d0caf2aaf8cfb"
+  },
+  {
+    "path": "docs/SECURITY_REVIEW.md",
+    "sha256": "5a9fedf68bc4df1cef8ce982cf73695e3f89d96bc456e4598e3fcc5343f20e95"
+  },
+  {
+    "path": "lib/account_entry.dart",
+    "sha256": "c3f1d56ff0c9e8de7be17e5cc5c9f1189746a224bcd7226e96ab717d80eb0a77"
+  },
+  {
+    "path": "lib/account_history_dialog.dart",
+    "sha256": "33d7b40f4e83294a1f3c73098cf6b96819d0ef1cf5b895415f86bad5f111f878"
+  },
+  {
+    "path": "lib/account_view_dialog.dart",
+    "sha256": "6f852c212499500b91dcd303938eb7f9a6bc28855d0048faf98a5a46d1dbf561"
+  },
+  {
+    "path": "lib/clipboard_controller.dart",
+    "sha256": "eba3b4c4ca3059ffb44c2766ddd13f37cbd5a42d53e8fd5c53d9b478eef02ed8"
+  },
+  {
+    "path": "lib/input_validation.dart",
+    "sha256": "35f7d19589e8fe75b96d5bb8b36e87aac536b49342888f04066d5680f05e83d4"
+  },
+  {
+    "path": "lib/local_attempt_limiter.dart",
+    "sha256": "160a554158a3eac66345bc018431ee3c5f90cc0eecd63b080a69f07e2770e05d"
+  },
+  {
+    "path": "lib/main.dart",
+    "sha256": "3e7fd5857c8c79c1f0bf5695686b2c32781df4905077d4ab64b085d3a1164bc3"
+  },
+  {
+    "path": "lib/password_generator.dart",
+    "sha256": "a7073261e40ae62a6ab30862768c3b6c405e8486ece1d38b319333d34e18450e"
+  },
+  {
+    "path": "lib/pin_gate.dart",
+    "sha256": "184be48358c8177542f77503c4073b49f3676781929506d853fc363c5e0c01fe"
+  },
+  {
+    "path": "lib/restore_dialog.dart",
+    "sha256": "808377a901361a7a55695718321700cbe6cd5561847160a0547f23dfb1fe49fd"
+  },
+  {
+    "path": "lib/security_dialog.dart",
+    "sha256": "105392d8ff464a98f4ad8b2a37d52e1175a6dc15721fcaa7f652896040bc0c59"
+  },
+  {
+    "path": "lib/vault_page.dart",
+    "sha256": "f4e950ec14b30674321080594c50265f1fa1d534be1f0923234121ec70bfa641"
+  },
+  {
+    "path": "lib/vault_store.dart",
+    "sha256": "58bbc366bcf63264dd32512f4fc91b5f1b2bbfc8819a3a51b0c0a083fbc83e9f"
+  },
+  {
+    "path": "lib/windows_services.dart",
+    "sha256": "fb1d9f58dfa29650a62c366bf3ea897160754625b247927b787ec32ca41df20a"
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "e57f1c320b8cf8798a7d2ff83a6f9e06a33a03585f6e065fea97f1d86db84052"
+  },
+  {
+    "path": "pubspec.lock",
+    "sha256": "5adbba5fc2867eab8586c0a92ec988a6102bf068f71c9d431f58ab39ce269aeb"
+  },
+  {
+    "path": "pubspec.yaml",
+    "sha256": "839f4c60c4792344dcd34f571d812b0d5523514ce07541afa40dd2bf120c4075"
+  },
+  {
+    "path": "README.md",
+    "sha256": "ae75657c40c1ba8b2f5c10facb73230d4b3c94dcb00b907d8a8015420a6d42e4"
+  },
+  {
+    "path": "SECURITY.md",
+    "sha256": "f5c237045daf38994ba2c0b285eee89633eba27a92fecb0ab1f917dbd4bdcaef"
+  },
+  {
+    "path": "test/account_entry_test.dart",
+    "sha256": "1d89b610f59485ba94538b62e6a4a2e1692ef690051fd262b25add14f0c57d03"
+  },
+  {
+    "path": "test/clipboard_controller_test.dart",
+    "sha256": "92cef97190e2c8713b4470460efc2cea88cc2469ff07a65084a0fc56f23d8023"
+  },
+  {
+    "path": "test/input_validation_test.dart",
+    "sha256": "f95cffffe093c957aa2061f1538691118683e2c438e6018139923d2f927d939b"
+  },
+  {
+    "path": "test/lifecycle_test.dart",
+    "sha256": "e6c7296a00d27311df1b2b9e9e6caa734053c0e5f98be97e56585e8341a395b3"
+  },
+  {
+    "path": "test/local_attempt_limiter_test.dart",
+    "sha256": "1a63adebdfe8d2efa4890f04809dccc4a242f1272d2e115ba73e6b37f58c4137"
+  },
+  {
+    "path": "test/local_dialogs_test.dart",
+    "sha256": "26cef948953d83f3979714cf8eb536a4e44cfe64877f5b001dabf182d722b676"
+  },
+  {
+    "path": "test/password_generator_test.dart",
+    "sha256": "455ec338cd107eb5cb14dde559b5ebf65a8013af9bf63e832b4eda113ba2c674"
+  },
+  {
+    "path": "test/pin_gate_test.dart",
+    "sha256": "15f91b46abae3a1c18f2bcf41ff409b1bed6945730586ba6d4129bffa7db7704"
+  },
+  {
+    "path": "test/security_boundaries_test.dart",
+    "sha256": "872d1e9072817a490933e64e9dbb245606f4a93cdbcd5f7a7afb8514b92f0f63"
+  },
+  {
+    "path": "test/vault_page_test.dart",
+    "sha256": "dc49d751cc9ef46e6a674dbb6decbc30af20b5f7d9b85cd2655fb60dd5d12e35"
+  },
+  {
+    "path": "test/vault_store_test.dart",
+    "sha256": "95cc4e9661b3582ce881a308292fc3421b90775c1fd8a0f7dddc879b720491c0"
+  },
+  {
+    "path": "test/widget_test.dart",
+    "sha256": "f4860eafce39b9797db102fdd1c408a8167f4199bdfc732022bd487d7d0f5673"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "sha256": "fcf95fa469d82e8a08e9c510eaf78c4f197989eb946e8e7a8655fde29184af7c"
+  },
+  {
+    "path": "tool/check_dependencies.ps1",
+    "sha256": "5abad57cd93e9752118ef9b76fbcec399b42dfa26368f441a951bfc7ea1f1c87"
+  },
+  {
+    "path": "tool/interop.dart",
+    "sha256": "f04c58e456314f37379dc16ec6a624cd43cbbcbfd84672a3d9f035939b3cf696"
+  },
+  {
+    "path": "tool/package_portfolio.ps1",
+    "sha256": "095474bbf63254585e20f422c1d83b53c0b4bc4dc6af8a3a7749b42b2cd9a0b2"
+  },
+  {
+    "path": "tool/portfolio_demo.dart",
+    "sha256": "a9d44e499d95b13c224b725272571c29be34bf0b0d44cd1accfb27617fd62abf"
+  },
+  {
+    "path": "tool/verify_kdbx.py",
+    "sha256": "af0d27cf953667ea34cc424f91c3f1c76ad52fb79010a4e32cab0325fc7d1410"
+  },
+  {
+    "path": "windows/.gitignore",
+    "sha256": "955e3110cb16494ee76e1cd5df47e2c212309eb94a49a123fe87f718de413cb8"
+  },
+  {
+    "path": "windows/CMakeLists.txt",
+    "sha256": "3099d5f22dc1330e78795d9f70fe3843f30ab2c7c16d774b8bf559d58bfb4847"
+  },
+  {
+    "path": "windows/flutter/CMakeLists.txt",
+    "sha256": "bd05e3268b2f246bcbafdb778165fe67a7bafdba04eb73599502563a67b8ae7e"
+  },
+  {
+    "path": "windows/flutter/generated_plugin_registrant.cc",
+    "sha256": "82e02567f2faf5e732dc92a2fb0d01104f7ba8c48973f8cfd41a860b4fac3f3b"
+  },
+  {
+    "path": "windows/flutter/generated_plugin_registrant.h",
+    "sha256": "dbc11635d7b1ba1887adf40df5b83d634e9c3ab0bee34510c71528bb4d73602a"
+  },
+  {
+    "path": "windows/flutter/generated_plugins.cmake",
+    "sha256": "286346b0d5303dc6b41072f9582d4c52bca35255b85b27b310f858e264dfdc56"
+  },
+  {
+    "path": "windows/runner/CMakeLists.txt",
+    "sha256": "cb34a4ba6173dcc44a92976ace39afdccbfc20fff1e19e3f17398897f9035c79"
+  },
+  {
+    "path": "windows/runner/flutter_window.cpp",
+    "sha256": "d73f2ffe5024f5ead8b5f67a644fd873b92a710e7032f7c41297a5a1d28d1a82"
+  },
+  {
+    "path": "windows/runner/flutter_window.h",
+    "sha256": "17136406141041f2b8a7483643371a918a82c4cfb2962c14ac4f5ccadd4504b2"
+  },
+  {
+    "path": "windows/runner/main.cpp",
+    "sha256": "a87ea3f8addd68d97c64b14af3c71cdd6c9d2039648442737281e1f754a5e387"
+  },
+  {
+    "path": "windows/runner/resource.h",
+    "sha256": "d0e8bf7835468b4b6b1f8f0747f2e8f25c19841f2df2ac60aaa584ddae3aa7c6"
+  },
+  {
+    "path": "windows/runner/resources/app_icon.ico",
+    "sha256": "c098d3fc85cacff98b8e69811b48e9f0d852fcee278132d794411d978869cbf8"
+  },
+  {
+    "path": "windows/runner/runner.exe.manifest",
+    "sha256": "639a56233fcd8cbcb8bbefcd93e4680ec2664f32d9acfb3d2ec1d8726a96e090"
+  },
+  {
+    "path": "windows/runner/Runner.rc",
+    "sha256": "05bcaea109aa346e069446648ab635b5b051af1b4319249468796da92e89f202"
+  },
+  {
+    "path": "windows/runner/utils.cpp",
+    "sha256": "a128b67b9f3c2579e2ecef5b0dde2c33f222a097cdfe5da2a3067c73d1485b39"
+  },
+  {
+    "path": "windows/runner/utils.h",
+    "sha256": "832e246b6758253f89016fb0374b30791242e97ad950d27fc678b3d9feacfdc4"
+  },
+  {
+    "path": "windows/runner/win32_window.cpp",
+    "sha256": "4e4f4dcf8e86ea6e097562cb3476039e693449bd8045367538afee579c017511"
+  },
+  {
+    "path": "windows/runner/win32_window.h",
+    "sha256": "d154cf89ba85f820631a9b5bedacbe64fc5815e428fe6bc5da579ce649f69841"
+  }
+]
